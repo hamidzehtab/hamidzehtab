@@ -50,6 +50,9 @@ Here are some ideas to get you started:
       <a href="https://twitter.com/hamidzehtab" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="Hamid" height="30"/></a>
+      <a href="https://telegram.com/hamidzehtab" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Telegram-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="Hamid" height="30"/></a>
       <br>
     </p>
   </samp>
