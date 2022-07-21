@@ -61,19 +61,19 @@ Here are some ideas to get you started:
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/1999AZZAR/1999AZZAR?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
+  <a href="github.com/hamidzehtab" target="blank"><img align="center" 
+     src=""
      alt="spying counter" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/1999AZZAR/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
+  <a href="github.com/hamidzehtab" target="blank"><img align="center" 
+     src=""
      alt="account age" /></a>
   </p>
   <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/1999AZZAR/1999AZZAR?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
+  <a href="github.com/hamidzehtab" target="blank"><img align="center" 
+     src=""
      alt="updated" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/1999AZZAR/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
+  <a href="github.com/hamidzehtab" target="blank"><img align="center" 
+     src=""
      alt="repos" /></a>
  </p>
 </div>
@@ -141,13 +141,13 @@ Here are some ideas to get you started:
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <a href="https://github.com/hamidzehtab/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidzehtab&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="hamidzehtab :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/hamidzehtab/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hamidzehtab&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidzehtab&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
@@ -158,7 +158,7 @@ Here are some ideas to get you started:
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=hamidzehtab&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hamid's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=hamidzehtab&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
 ------
